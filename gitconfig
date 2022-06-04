@@ -52,3 +52,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = hermes-vinicius@hotmail.com
+	name = hermes silva
